@@ -1,0 +1,9 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Ce programme permet d'importer un fil de nouvelles pour ensuite consulter ses nouvelles.
+${licensePrefix}Il permet égallement d'exporter le fil de nouvelles dans un fichier XML et
+${licensePrefix}de créer, supprimer ou modifier ses nouvelles.
+<#if licenseLast??>
+${licenseLast}
+</#if>

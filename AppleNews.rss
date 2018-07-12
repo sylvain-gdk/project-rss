@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<atom:link href="https://developer.apple.com/news/rss/news.rss" rel="self" type="application/rss+xml" />
+<title>News and Updates - Apple Developer</title>
+<link>https://developer.apple.com/news/</link>
+<description>Apple Developer News and Updates feed provided by Apple, Inc.</description>
+<language>en-US</language>
+<lastBuildDate>Tue, 28 Mar 2017 18:00:00 PDT</lastBuildDate>
+<generator>Custom</generator>
+<copyright>Copyright 2017, Apple Inc.</copyright>
+
+<item>
+<title>Apple Pay Has Expanded to Taiwan</title>
+<link>https://developer.apple.com/news/?id=03282017b</link>
+<guid>https://developer.apple.com/news/?id=03282017b</guid>
+<description>You can now support Apple Pay for your customers in Taiwan, providing an easy and secure way for them to pay within your apps and websites with a single touch.Learn more about Apple Pay.</description>
+<pubDate>Tue, 28 Mar 2017 18:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>You can now support Apple Pay for your customers in Taiwan, providing an easy and secure way for them to pay within your apps and websites with a single touch.</p><p><span class="nowrap"><a href="https://developer.apple.com/apple-pay/">Learn more about Apple Pay</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>New Beta Downloads Now Available</title>
+<link>https://developer.apple.com/news/?id=03282017a</link>
+<guid>https://developer.apple.com/news/?id=03282017a</guid>
+<description>Test your apps with the latest release of macOS, iOS, watchOS, and tvOS.macOS Sierra 10.12.5 beta (16F43c)iOS 10.3.2 beta (14F5065b)watchOS 3.2.2 beta (14V5465b)tvOS 10.2.1 beta (14W5563b)View all downloads.</description>
+<pubDate>Tue, 28 Mar 2017 10:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Test your apps with the latest release of macOS, iOS, watchOS, and tvOS.<ul><li>macOS Sierra 10.12.5 beta (16F43c)</li><li>iOS 10.3.2 beta (14F5065b)</li><li>watchOS 3.2.2 beta (14V5465b)</li><li>tvOS 10.2.1 beta (14W5563b)</li></ul><a href="https://developer.apple.com/download/">View all downloads</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Ratings, Reviews, and Responses on the App Store</title>
+<link>https://developer.apple.com/news/?id=03272017c</link>
+<guid>https://developer.apple.com/news/?id=03272017c</guid>
+<description>Now you can engage new and existing customers more easily with streamlined ratings and reviews capabilities.In-App Ratings and ReviewsThe new StoreKit API available on iOS 10.3 makes it easy for customers to provide App Store ratings and reviews without leaving your app. Simply choose when you’d like to prompt the user, and the system takes care of the rest.Responding to CustomersYou can now publicly respond to customer reviews of your app on the App Store for iPhone, iPad, and Mac. When you respond, the customer is notified and has the option to update their feedback. Learn more about Ratings and Reviews.</description>
+<pubDate>Mon, 27 Mar 2017 16:20:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Now you can engage new and existing customers more easily with streamlined ratings and reviews capabilities.</p><p><b>In-App Ratings and Reviews</b><br>The new StoreKit API available on iOS 10.3 makes it easy for customers to provide App Store ratings and reviews without leaving your app. Simply choose when you’d like to prompt the user, and the system takes care of the rest.</p><p><b>Responding to Customers</b><br>You can now publicly respond to customer reviews of your app on the App Store for iPhone, iPad, and Mac. When you respond, the customer is notified and has the option to update their feedback.</p><p> <a href="https://developer.apple.com/app-store/ratings-and-reviews/">Learn more about Ratings and Reviews</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>New Downloads Now Available</title>
+<link>https://developer.apple.com/news/?id=03272017b</link>
+<guid>https://developer.apple.com/news/?id=03272017b</guid>
+<description>Xcode 8.3 is now available, and includes Swift 3 and SDKs that you can use to build and test apps for the latest release of macOS, iOS, watchOS, and tvOS.macOS Sierra 10.12.4 (16E195)iOS 10.3 (14E277)watchOS 3.2 (14V249)tvOS 10.2 (14W265)Xcode 8.3 (8E162)View all downloads.</description>
+<pubDate>Mon, 27 Mar 2017 10:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Xcode 8.3 is now available, and includes Swift 3 and SDKs that you can use to build and test apps for the latest release of macOS, iOS, watchOS, and tvOS.<ul><li>macOS Sierra 10.12.4 (16E195)</li><li>iOS 10.3 (14E277)</li><li>watchOS 3.2 (14V249)</li><li>tvOS 10.2 (14W265)</li><li>Xcode 8.3 (8E162)</li></ul><a href="https://developer.apple.com/download/">View all downloads</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>WWDC 2017 Registration Now Open</title>
+<link>https://developer.apple.com/news/?id=03272017a</link>
+<guid>https://developer.apple.com/news/?id=03272017a</guid>
+<description>The opportunity to buy tickets to this year’s conference is offered by random selection. Register by Friday, March 31 at 10:00 a.m. PDT for your chance to join thousands of others coming together to change the world.Learn more about WWDC 2017.</description>
+<pubDate>Mon, 27 Mar 2017 10:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>The opportunity to buy tickets to this year’s conference is offered by random selection. Register by Friday, March 31 at 10:00 a.m. PDT for your chance to join thousands of others coming together to change the world.</p><p><a href="https://developer.apple.com/wwdc/">Learn more about WWDC 2017</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Swift Playgrounds 1.2 Now Available</title>
+<link>https://developer.apple.com/news/?id=03232017a</link>
+<guid>https://developer.apple.com/news/?id=03232017a</guid>
+<description>Swift Playgrounds, the revolutionary app for iPad that helps students learn to code, is now localized in Simplified Chinese, French, German, Japanese, and Latin American Spanish, making it even easier for more students around the world to learn and experiment with code. Read the full press release.</description>
+<pubDate>Thu, 23 Mar 2017 15:30:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Swift Playgrounds, the revolutionary app for iPad that helps students learn to code, is now localized in Simplified Chinese, French, German, Japanese, and Latin American Spanish, making it even easier for more students around the world to learn and experiment with code.</p><p><span class="nowrap"><a href="http://www.apple.com/newsroom/2017/03/swift-playgrounds-now-available-in-five-additional-languages.html"> Read the full press release</a>.</span></p>]]></content:encoded>
+</item>
+<item>
+<title>Apple Pay Has Expanded to Ireland</title>
+<link>https://developer.apple.com/news/?id=03072017a</link>
+<guid>https://developer.apple.com/news/?id=03072017a</guid>
+<description>You can now support Apple Pay for your customers in Ireland, providing an easy and secure way for them to pay within your app and website with a single touch.  Learn more about Apple Pay.</description>
+<pubDate>Tue, 07 Mar 2017 08:30:00 PST</pubDate>
+<content:encoded><![CDATA[<p>You can now support Apple Pay for your customers in Ireland, providing an easy and secure way for them to pay within your app and website with a single touch.  <span class="nowrap"><a href="https://developer.apple.com/apple-pay/">Learn more about Apple Pay</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>WWDC Scholarship Details Now Available</title>
+<link>https://developer.apple.com/news/?id=03062017a</link>
+<guid>https://developer.apple.com/news/?id=03062017a</guid>
+<description>WWDC Scholarships reward talented students and STEM organization members with the opportunity to attend this year’s conference. Developers selected for a scholarship will receive a WWDC17 ticket and lodging free of charge.Learn more about WWDC Scholarships.</description>
+<pubDate>Mon, 06 Mar 2017 10:35:00 PST</pubDate>
+<content:encoded><![CDATA[<p>WWDC Scholarships reward talented students and STEM organization members with the opportunity to attend this year’s conference. Developers selected for a scholarship will receive a WWDC17 ticket and lodging free of charge.</p><p><a href="https://developer.apple.com/wwdc/scholarships/">Learn more about WWDC Scholarships.</a></p>]]></content:encoded>
+</item>
+<item>
+<title>Announcing WWDC 2017</title>
+<link>https://developer.apple.com/news/?id=02152017a</link>
+<guid>https://developer.apple.com/news/?id=02152017a</guid>
+<description>Apple’s developer community will come together at WWDC 2017 in San Jose, California from June 5 to 9 to learn about the future of Apple platforms and connect with thousands of developers from all around the world. In addition to the activities planned for conference attendees, a variety of other exciting developer events will take place throughout the city. Learn more about WWDC.</description>
+<pubDate>Thu, 16 Feb 2017 06:03:00 PST</pubDate>
+<content:encoded><![CDATA[<p>Apple’s developer community will come together at WWDC 2017 in San Jose, California from June 5 to 9 to learn about the future of Apple platforms and connect with thousands of developers from all around the world. In addition to the activities planned for conference attendees, a variety of other exciting developer events will take place throughout the city. <a href="https://developer.apple.com/wwdc/"><span class="nowrap">Learn more about WWDC</span>.</a></p>]]></content:encoded>
+</item>
+<item>
+<title>Developer Insights Series: Managing a Community</title>
+<link>https://developer.apple.com/news/?id=02082017a</link>
+<guid>https://developer.apple.com/news/?id=02082017a</guid>
+<description>Super Evil Megacorp, the developer behind the mobile-first multiplayer game Vainglory, shares its approach to community management, and how it evolves the game by listening to player feedback. Learn more.</description>
+<pubDate>Wed, 15 Feb 2017 11:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>Super Evil Megacorp, the developer behind the mobile-first multiplayer game Vainglory, shares its approach to community management, and how it evolves the game by listening to player feedback. <span class="nowrap"><a href="https://developer.apple.com/app-store/super-evil-megacorp/">Learn more</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Updated Certificate for Game Center Authentication</title>
+<link>https://developer.apple.com/news/?id=02012017a</link>
+<guid>https://developer.apple.com/news/?id=02012017a</guid>
+<description>On February 13, 2017, a new certificate for server-based Game Center Player ID verification will be available via the publicKeyUrl property of generateIdentityVerificationSignature, and the previous certificate will expire.Apps that dynamically query the publicKeyUrl value will automatically use the new certificate, whereas apps that cache the certificate or hardcode the certificate URL may require an update. Learn more.</description>
+<pubDate>Wed, 01 Feb 2017 16:50:00 PST</pubDate>
+<content:encoded><![CDATA[<p>On February 13, 2017, a new certificate for server-based <span class="nowrap">Game Center</span> Player ID verification will be available via the publicKeyUrl property of <span class="nowrap"><a href="https://developer.apple.com/reference/gamekit/gklocalplayer/1515407-generateidentityverificationsign">generateIdentityVerificationSignature</a></span>, and the previous certificate will expire.</p><p>Apps that dynamically query the publicKeyUrl value will automatically use the new certificate, whereas apps that cache the certificate or hardcode the certificate URL may require an update. <span class="nowrap"><a href="https://forums.developer.apple.com/message/209278#209278">Learn more</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Allow Users to Provide Ratings From Within Your App </title>
+<link>https://developer.apple.com/news/?id=01242017c</link>
+<guid>https://developer.apple.com/news/?id=01242017c</guid>
+<description>With iOS 10.3, you can use a new API to ask users to provide App Store ratings and reviews without leaving your app. You can also publicly respond to customer reviews on the App Store and Mac App Store. Learn more.</description>
+<pubDate>Tue, 24 Jan 2017 14:50:00 PST</pubDate>
+<content:encoded><![CDATA[<p>With iOS 10.3, you can use a new API to ask users to provide App&nbsp;Store ratings and reviews without leaving your app. You can also publicly respond to customer reviews on the App&nbsp;Store and Mac&nbsp;App&nbsp;Store. <span class="nowrap"><a href="https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewIniOS/Articles/iOS10_3.html#//apple_ref/doc/uid/TP40017594-SW1/">Learn more</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>SiriKit Now Available on watchOS 3.2</title>
+<link>https://developer.apple.com/news/?id=01242017b</link>
+<guid>https://developer.apple.com/news/?id=01242017b</guid>
+<description>Use APIs to integrate Siri’s natural language experience into your watchOS app.  SiriKit supports apps for fitness, payments, rides, and messages so users can ask Siri to start a workout, send money, book a ride, and more.  Learn more about SiriKit for watchOS.</description>
+<pubDate>Tue, 24 Jan 2017 14:50:00 PST</pubDate>
+<content:encoded><![CDATA[<p>Use APIs to integrate Siri’s natural language experience into your watchOS app.  SiriKit supports apps for fitness, payments, rides, and messages so users can ask Siri to start a workout, send money, book a ride, and more.  <span class="nowrap"><a href="https://developer.apple.com/library/prerelease/content/releasenotes/General/WhatsNewInwatchOS/Articles/watchOS3_2.html#//apple_ref/doc/uid/TP40017593-SW1">Learn more about SiriKit for watchOS</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Design Resources for iOS Apps Now Available</title>
+<link>https://developer.apple.com/news/?id=01192017a</link>
+<guid>https://developer.apple.com/news/?id=01192017a</guid>
+<description>Creating iOS apps is even easier with the updated Apple UI Design Resources. Use the latest Sketch and Photoshop templates and guides, color palettes, and the San Francisco typeface to quickly and accurately design iOS apps that integrate seamlessly into the overall user experience of iOS.  Learn more.</description>
+<pubDate>Thu, 19 Jan 2017 11:45:00 PST</pubDate>
+<content:encoded><![CDATA[<p>Creating iOS apps is even easier with the updated Apple UI Design Resources. Use the latest Sketch and Photoshop templates and guides, color palettes, and the San Francisco typeface to quickly and accurately design iOS apps that integrate seamlessly into the overall user experience of iOS. <span class="nowrap"><a href="https://developer.apple.com/ios/human-interface-guidelines/resources/"> Learn more.</a></span></p>]]></content:encoded>
+</item>
+<item>
+<title>Now Accepting Larger tvOS Binaries</title>
+<link>https://developer.apple.com/news/?id=01122017c</link>
+<guid>https://developer.apple.com/news/?id=01122017c</guid>
+<description>The size limit of a tvOS app bundle has increased from 200 MB to 4 GB, so you can include more media in your submission and provide a complete, rich user experience upon installation. Also, tvOS apps can use On-Demand Resources to host up to 20 GB of additional content on the App Store. Learn more about preparing apps for the App Store.</description>
+<pubDate>Thu, 12 Jan 2017 15:30:00 PST</pubDate>
+<content:encoded><![CDATA[<p>The size limit of a tvOS app bundle has increased from 200 MB to 4&nbsp;GB, so you can include more media in your submission and provide a complete, rich user experience upon installation. Also, tvOS apps can use <span class="nowrap">On-Demand</span> Resources to host up to 20&nbsp;GB of additional content on the App Store.</p><p> <a href="https://developer.apple.com/tvos/submit/">Learn more about preparing apps for the <span class="nowrap">App Store</span></a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>What a Way to Begin 2017</title>
+<link>https://developer.apple.com/news/?id=01052017a</link>
+<guid>https://developer.apple.com/news/?id=01052017a</guid>
+<description>The App Store welcomed 2017 with its busiest single day ever on New Year’s Day, with customers around the world spending $240 million on apps and in-app purchases. Developers earned over $20 billion last year, and to date have earned a cumulative $60 billion from the sale of apps and games. Thank you for the many innovative apps you've created — which together with our products — help to truly enrich people’s lives. See the full press release.</description>
+<pubDate>Thu, 05 Jan 2017 17:45:00 PST</pubDate>
+<content:encoded><![CDATA[<p>The App Store welcomed 2017 with its busiest single day ever on New Year’s Day, with customers around the world spending $240&nbsp;million on apps and in-app purchases. Developers earned over $20&nbsp;billion last year, and to date have earned a cumulative $60 billion from the sale of apps and games. Thank you for the many innovative apps you've created — which together with our products — help to truly enrich people’s lives. <span class="nowrap"><a href="http://www.apple.com/newsroom/2017/01/app-store-shatters-records-on-new-years-day.html">See the full press release.</a></span></p>]]></content:encoded>
+</item>
+<item>
+<title>Supporting App Transport Security</title>
+<link>https://developer.apple.com/news/?id=12212016b</link>
+<guid>https://developer.apple.com/news/?id=12212016b</guid>
+<description>App Transport Security (ATS), introduced in iOS 9 and OS X v10.11, improves user security and privacy by requiring apps to use secure network connections over HTTPS. At WWDC 2016 we announced that apps submitted to the App Store will be required to support ATS at the end of the year. To give you additional time to prepare, this deadline has been extended and we will provide another update when a new deadline is confirmed. Learn more about ATS.</description>
+<pubDate>Wed, 21 Dec 2016 18:15:00 PST</pubDate>
+<content:encoded><![CDATA[<p>App Transport Security (ATS), introduced in iOS 9 and OS X v10.11, improves user security and privacy by requiring apps to use secure network connections over HTTPS. At WWDC 2016 we announced that apps submitted to the App Store will be required to support ATS at the end of the year. To give you additional time to prepare, this deadline has been extended and we will provide another update when a new deadline is confirmed. <a href="https://developer.apple.com/videos/play/wwdc2016/706/"><span class="nowrap">Learn more about ATS</span>.</a></p>]]></content:encoded>
+</item>
+<item>
+<title>Winter Holiday Schedule</title>
+<link>https://developer.apple.com/news/?id=12152016a</link>
+<guid>https://developer.apple.com/news/?id=12152016a</guid>
+<description>As a reminder, we will not be accepting new app or app update submissions from December 23 to 27 (Pacific Time), so any releases should be submitted, approved, and scheduled in advance. Other iTunes Connect and developer account features will remain available.Learn more about preparing apps for the App Store.</description>
+<pubDate>Thu, 15 Dec 2016 12:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>As a reminder, we will not be accepting new app or app update submissions from December 23 to 27 (Pacific Time), so any releases should be submitted, approved, and scheduled in advance. Other iTunes Connect and developer account features will remain available.</p><p><span class="nowrap"><a href="https://developer.apple.com/app-store/submissions/">Learn more about preparing apps for the App Store</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Developer Insights Series: Building a Business in the Kids Category</title>
+<link>https://developer.apple.com/news/?id=12142016d</link>
+<guid>https://developer.apple.com/news/?id=12142016d</guid>
+<description>The five-person team at Originator shares its approach to building a sustainable business in the Kids category on the App Store and how it got the word out about its Endless apps.  Learn more.</description>
+<pubDate>Wed, 14 Dec 2016 10:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>The five-person team at Originator shares its approach to building a sustainable business in the Kids category on the App Store and how it got the word out about its Endless apps.  <span class="nowrap"><a href="https://developer.apple.com/app-store/originator/">Learn more</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Best of 2016</title>
+<link>https://developer.apple.com/news/?id=12072016b</link>
+<guid>https://developer.apple.com/news/?id=12072016b</guid>
+<description>Congratulations to the developers featured in the App Store Best of 2016. This showcase honors the year’s most innovative apps and games on the App Store, and celebrates the amazing app experiences that developers have created for Mac, iPhone, iPad, Apple Watch, and Apple TV. See all the featured apps.</description>
+<pubDate>Wed, 07 Dec 2016 10:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>Congratulations to the developers featured in the App Store Best of 2016. This showcase honors the year’s most innovative apps and games on the App Store, and celebrates the amazing app experiences that developers have created for Mac, iPhone, iPad, Apple&nbsp;Watch, and Apple&nbsp;TV. <span class="nowrap"><a href="https://developer.apple.com/app-store/best-of-2016/">See all the featured apps.</a></span></p>]]></content:encoded>
+</item>
+<item>
+<title>Apple Pay Has Expanded to Spain</title>
+<link>https://developer.apple.com/news/?id=12012016a</link>
+<guid>https://developer.apple.com/news/?id=12012016a</guid>
+<description>You can now support Apple Pay for your customers in Spain, providing an easy and secure way for them to pay within your app and website with a single touch.  Learn more about Apple Pay.</description>
+<pubDate>Thu, 01 Dec 2016 07:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>You can now support Apple Pay for your customers in Spain, providing an easy and secure way for them to pay within your app and website with a single touch.  <span class="nowrap"><a href="https://developer.apple.com/apple-pay/">Learn more about Apple Pay</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Get Your Apps Ready for the Holidays</title>
+<link>https://developer.apple.com/news/?id=11292016a</link>
+<guid>https://developer.apple.com/news/?id=11292016a</guid>
+<description>The busiest season on the App Store is almost here. Make sure your apps are up-to-date and ready for the winter holidays. New apps and app updates will not be accepted December 23 to 27 (Pacific Time), so any releases should be submitted, approved, and scheduled in advance. Other iTunes Connect and developer account features will remain available. Learn more about preparing apps for the App Store.</description>
+<pubDate>Tue, 29 Nov 2016 10:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>The busiest season on the App Store is almost here. Make sure your apps are up-to-date and ready for the winter holidays. New apps and app updates will not be accepted December 23 to 27 (Pacific Time), so any releases should be submitted, approved, and scheduled in advance. Other iTunes Connect and developer account features will remain available.</p><p> <span class="nowrap"><a href="https://developer.apple.com/app-store/submissions/">Learn more about preparing apps for the App Store</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>The Hour of Code</title>
+<link>https://developer.apple.com/news/?id=11172016a</link>
+<guid>https://developer.apple.com/news/?id=11172016a</guid>
+<description>As part of Computer Science Education Week, Apple will help inspire the next generation of developers with free Hour of Code workshops at your local Apple Store from December 5 to 11. Each workshop is a one-hour introduction to the basics of computer programming. To sign up for a workshop or learn how to host your own Hour of Code event, see the Apple Store website.The Hour of Code is an initiative by Computer Science Education Week and Code.org to introduce millions of students around the world to one hour of computer science and computer programming.</description>
+<pubDate>Thu, 17 Nov 2016 11:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>As part of Computer Science Education Week, Apple will help inspire the next generation of developers with free Hour of Code workshops at your local Apple Store from December 5 to 11. Each workshop is a one-hour introduction to the basics of computer programming. To sign up for a workshop or learn how to host your own Hour of Code event, see the <a href=" http://www.apple.com/retail/code/?CID=mkts-edu-ecc-dvlprnews-hoc">Apple Store website</a>.</p><p>The Hour of Code is an initiative by <a href="https://csedweek.org">Computer Science Education Week</a> and <a href="https://code.org">Code.org</a> to introduce millions of students around the world to one hour of computer science and computer programming.</p>]]></content:encoded>
+</item>
+<item>
+<title>Apple Pay for Donations</title>
+<link>https://developer.apple.com/news/?id=11142016a</link>
+<guid>https://developer.apple.com/news/?id=11142016a</guid>
+<description>U.S.-based nonprofits can now use Apple Pay to provide a simple and secure way to accept donations from within their app and website. Learn more.</description>
+<pubDate>Mon, 14 Nov 2016 16:45:00 PST</pubDate>
+<content:encoded><![CDATA[<p>U.S.-based nonprofits can now use <span class="nowrap"><a href="https://developer.apple.com/apple-pay/">Apple Pay</a></span> to provide a simple and secure way to accept donations from within their app and website. <span class="nowrap"><a href="http://www.apple.com/newsroom/2016/11/a-touch-of-giving-with-apple-pay.html">Learn more</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Linking to Your tvOS App Product Pages</title>
+<link>https://developer.apple.com/news/?id=11092016a</link>
+<guid>https://developer.apple.com/news/?id=11092016a</guid>
+<description>Make it easier for customers to view your tvOS apps on the App Store for iPhone and iPad, and on the iTunes Store on Mac and PC with a direct link your app’s product page. Customers who have enabled their Apple TV to automatically install apps can download your app straight to Apple TV from their iOS device or computer. Simply get the link from iTunes Link Maker and use it when promoting your app.Learn more about preparing tvOS apps for the App Store.</description>
+<pubDate>Wed, 09 Nov 2016 11:00:00 PST</pubDate>
+<content:encoded><![CDATA[<p>Make it easier for customers to view your tvOS apps on the App&nbsp;Store for iPhone and iPad, and on the iTunes Store on Mac and PC with a direct link your app’s product page. Customers who have enabled their Apple TV to automatically install apps can download your app straight to Apple&nbsp;TV from their iOS device or computer. Simply get the link from <a href="https://linkmaker.itunes.apple.com/">iTunes Link Maker</a> and use it when promoting your app.<p><p><a href="https://developer.apple.com/tvos/submit/">Learn more about preparing tvOS apps for the App Store</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Volume Purchase Program has Expanded</title>
+<link>https://developer.apple.com/news/?id=10312016a</link>
+<guid>https://developer.apple.com/news/?id=10312016a</guid>
+<description>The Volume Purchase Program is now available in Austria, Brazil, Czech Republic, Hungary, India, Poland, Portugal, and South Africa, making it easier for businesses and educational institutions in these countries to discover, purchase, and distribute your iOS apps and Mac apps in volume. Learn more.</description>
+<pubDate>Mon, 31 Oct 2016 13:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>The Volume Purchase Program is now available in Austria, Brazil, Czech Republic, Hungary, India, Poland, Portugal, and South Africa, making it easier for businesses and educational institutions in these countries to discover, purchase, and distribute your iOS apps and Mac apps in volume. <a href="https://developer.apple.com/programs/volume/">Learn more</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>In-App Purchase Promo Codes  Now Available .</title>
+<link>https://developer.apple.com/news/?id=10282016a</link>
+<guid>https://developer.apple.com/news/?id=10282016a</guid>
+<description>Give press and influencers early access to your app’s in-app purchases with promo codes from iTunes Connect. You can give away up to 100 promo codes for each in-app purchase item, up to a maximum of 1,000 codes per app. Learn more about promo codes.</description>
+<pubDate>Fri, 28 Oct 2016 16:40:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Give press and influencers early access to your app’s in-app purchases with promo codes from iTunes Connect. You can give away up to 100 promo codes for each in-app purchase item, up to a maximum of 1,000 codes per app.</p><p> <span class="nowrap"><a href="https://itunespartner.apple.com/en/apps/faq/Managing%20Your%20Apps_Promo%20Codes">Learn more about promo codes</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Apple Pay Has Expanded to Japan</title>
+<link>https://developer.apple.com/news/?id=10252016a</link>
+<guid>https://developer.apple.com/news/?id=10252016a</guid>
+<description>You can now support Apple Pay for your customers in Japan, providing an easy and secure way for them to pay within your app and website with a single touch.  Learn more about Apple Pay.</description>
+<pubDate>Tue, 25 Oct 2016 08:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>You can now support Apple Pay for your customers in Japan, providing an easy and secure way for them to pay within your app and website with a single touch.  <span class="nowrap"><a href="https://developer.apple.com/apple-pay/">Learn more about Apple Pay</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Developer Insights Series: Marketing a Game at Launch</title>
+<link>https://developer.apple.com/news/?id=10202016b</link>
+<guid>https://developer.apple.com/news/?id=10202016b</guid>
+<description>WRKSHP shares how it built an audience in the lead-up to the worldwide launch of Battle Camp, and how it attracted hundreds of thousands of players with limited marketing resources. Learn more.</description>
+<pubDate>Thu, 20 Oct 2016 13:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>WRKSHP shares how it built an audience in the lead-up to the worldwide launch of Battle Camp, and how it attracted hundreds of thousands of players with limited marketing resources. <span class="nowrap"><a href="https://developer.apple.com/app-store/wrkshp/">Learn more</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Search Ads Now Available</title>
+<link>https://developer.apple.com/news/?id=09282016a</link>
+<guid>https://developer.apple.com/news/?id=09282016a</guid>
+<description>Search Ads is an efficient and easy way to promote your app on the App Store for iPhone and iPad in the U.S., helping customers discover it at the very moment they are searching for apps to download. Designed to give users a safe search experience, Search Ads sets a new standard for delivering relevant ads while respecting user privacy.Ads go live on the App Store on October 5. For a limited time, eligible developers can receive a $100 credit toward their first campaign when they sign up for Search Ads.</description>
+<pubDate>Wed, 28 Sep 2016 16:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Search Ads is an efficient and easy way to promote your app on the App Store for iPhone and iPad in the U.S., helping customers discover it at the very moment they are searching for apps to download. Designed to give users a safe search experience, Search&nbsp;Ads sets a new standard for delivering relevant ads while respecting user privacy.</p><p>Ads go live on the App Store on October 5. For a limited time, eligible developers can receive a $100 credit toward their first campaign when they <span class="nowrap"><a href="https://searchads.apple.com/?cid=sa-in-us-drnws">sign up for Search Ads</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>New Apple Product Images and Messaging Guidelines</title>
+<link>https://developer.apple.com/news/?id=09232016a</link>
+<guid>https://developer.apple.com/news/?id=09232016a</guid>
+<description>Images of iPhone 7, iPhone 7 Plus, and Apple Watch Series 2 are now available for you to use in marketing materials for your apps on the App Store. You can also get guidance on marketing and messaging iMessage apps, as well as showing your app’s screen content within Apple products such as Siri and Maps. Download the images and read the updated information in the  App Store Marketing Guidelines.</description>
+<pubDate>Fri, 23 Sep 2016 13:45:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Images of iPhone 7, iPhone 7 Plus, and Apple Watch Series 2 are now available for you to use in marketing materials for your apps on the App Store. You can also get guidance on marketing and messaging iMessage apps, as well as showing your app’s screen content within Apple products such as Siri and Maps. Download the images and read the updated information in the  <span class="nowrap"><a href="https://developer.apple.com/app-store/marketing/">App Store Marketing Guidelines</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Token Authentication Now Available for Push Notifications</title>
+<link>https://developer.apple.com/news/?id=09222016a</link>
+<guid>https://developer.apple.com/news/?id=09222016a</guid>
+<description>You can now take advantage of a simpler method of authentication by using tokens instead of certificates when sending push notifications. A token is easy to generate, doesn’t expire, and can be used to send notifications to all of your apps. Learn more about push notifications.</description>
+<pubDate>Thu, 22 Sep 2016 16:35:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>You can now take advantage of a simpler method of authentication by using tokens instead of certificates when sending push notifications. A token is easy to generate, doesn’t expire, and can be used to send notifications to all of your apps. <a href="https://developer.apple.com/go/?id=push-notifications">Learn more about push notifications.</a></p>]]></content:encoded>
+</item>
+<item>
+<title>Controlling Robots using Swift Playgrounds on iPad</title>
+<link>https://developer.apple.com/news/?id=09212016b</link>
+<guid>https://developer.apple.com/news/?id=09212016b</guid>
+<description>At WWDC16 we demonstrated controlling a Sphero SPRK+ robot on stage, driven by the Swift Playgrounds app on iPad. The playground has been updated for the latest release of Swift Playgrounds on the App Store. Visit the Swift blog to download the file and run it on your iPad to see how it works, and learn to write code that lets you control the robot in additional ways.</description>
+<pubDate>Wed, 21 Sep 2016 15:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>At WWDC16 we demonstrated controlling a Sphero SPRK+ robot on stage, driven by the Swift Playgrounds app on iPad. The playground has been updated for the latest release of Swift Playgrounds on the App Store. Visit the <a href="https://developer.apple.com/swift/blog/?id=38">Swift blog</a> to download the file and run it on your iPad to see how it works, and learn to write code that lets you control the robot in additional ways.</p>]]></content:encoded>
+</item>
+<item>
+<title>New Subscriptions Data and Reports are Now Available</title>
+<link>https://developer.apple.com/news/?id=09132016a</link>
+<guid>https://developer.apple.com/news/?id=09132016a</guid>
+<description>You can now get more data about your auto-renewable subscriptions in iTunes Connect. The new Subscriptions page in Sales and Trends makes it easy to view key metrics and two new reports provide details into subscriber activity. Learn more.</description>
+<pubDate>Tue, 13 Sep 2016 11:50:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>You can now get more data about your auto-renewable subscriptions in iTunes Connect. The new Subscriptions page in Sales and Trends makes it easy to view key metrics and two new reports provide details into subscriber activity. <a href="https://itunespartner.apple.com/en/apps/news/5721783">Learn more</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Submit Your Apps to the App Store</title>
+<link>https://developer.apple.com/news/?id=09072016a</link>
+<guid>https://developer.apple.com/news/?id=09072016a</guid>
+<description>You can now submit your apps that take advantage of exciting new features available in the next release of macOS, iOS, watchOS, and tvOS. And with the new App Store for iMessage, users will be able to download your iMessage apps and sticker packs directly within Messages.Build your apps using Xcode 8 GM seed, test with the GM seeds of macOS Sierra, iOS 10, watchOS 3, tvOS 10, and submit them for review. To learn more about preparing your submissions for the App Store, see Submitting Your Apps.</description>
+<pubDate>Wed, 07 Sep 2016 12:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>You can now submit your apps that take advantage of exciting new features available in the next release of macOS, iOS, watchOS, and tvOS. And with the new <span class="nowrap"><a href="https://developer.apple.com/app-store/imessage-app-submissions/">App Store for iMessage</a></span>, users will be able to download your iMessage apps and sticker packs directly within Messages.</p><p>Build your apps using Xcode 8 GM seed, test with the GM seeds of macOS Sierra, iOS 10, watchOS 3, tvOS 10, and submit them for review. To learn more about preparing your submissions for the App Store, see <span class="nowrap"><a href="https://developer.apple.com/app-store/submissions/">Submitting Your Apps</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Updated Guidelines Now Available</title>
+<link>https://developer.apple.com/news/?id=09012016b</link>
+<guid>https://developer.apple.com/news/?id=09012016b</guid>
+<description>The App Store Review Guidelines have been updated to include information on subscriptions, SiriKit, and iMessage. As you plan and develop your apps for the upcoming releases of iOS 10, macOS Sierra, watchOS, and tvOS, make sure to read these updated guidelines.See the App Store Review Guidelines.</description>
+<pubDate>Thu, 01 Sep 2016 11:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>The App Store Review Guidelines have been updated to include information on <a href="https://developer.apple.com/app-store/subscriptions/">subscriptions</a>, <a href="https://developer.apple.com/sirikit/">SiriKit</a>, and <a href="https://developer.apple.com/imessage/">iMessage</a>. As you plan and develop your apps for the upcoming releases of iOS 10, <span class="nowrap">macOS Sierra,</span> watchOS, and tvOS, make sure to read these updated guidelines.</p><p><span class="nowrap"><a href="https://developer.apple.com/app-store/review/guidelines/">See the App Store Review Guidelines</a>.</span></p>]]></content:encoded>
+</item>
+<item>
+<title>App Store Improvements</title>
+<link>https://developer.apple.com/news/?id=09012016a</link>
+<guid>https://developer.apple.com/news/?id=09012016a</guid>
+<description>We love helping customers discover innovative, useful, and exciting apps on the App Store. With more than 2 million apps available and around 100,000 new and updated apps submitted each week, there’s something for everyone. To make it easier for customers to find great apps that fit their needs, we’re implementing two suggestions from the developer community starting September 7, 2016.</description>
+<pubDate>Thu, 01 Sep 2016 11:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>We love helping customers discover innovative, useful, and exciting apps on the App Store. With more than 2 million apps available and around 100,000 new and updated apps submitted each week, there’s something for everyone. To make it easier for customers to find great apps that fit their needs, we’re implementing two suggestions from the developer community starting September 7, 2016.</p><p><strong>Quality Apps</strong><br>Quality is extremely important to us. We know that many of you work hard to build innovative apps and update your apps on the App Store with new content and features. However, there are also apps on the App Store that no longer function as intended or follow current <a href="https://developer.apple.com/app-store/review/guidelines/">review guidelines</a>, and others which have not been supported with compatibility updates for a long time. We are implementing an ongoing process of evaluating apps for these issues, notifying their developers, and removing problematic and abandoned apps from the App Store.</p><p><strong>Shorter App Names</strong><br>Search is one of the most frequently used methods for customers to discover and download apps from the App Store. In hopes of influencing search results, some developers have used extremely long app names which include descriptions and terms not directly related to their app. These long names are not fully displayed on the App Store and provide no user value. App names you submit in iTunes Connect for new apps and updates will now be limited to no longer than 50 characters. You can learn more about creating effective app names, as well as icons, keywords, screenshots, and descriptions, by reading the <a href="https://developer.apple.com/app-store/product-page/">App Store Product Page</a>.</p><p><a href="https://developer.apple.com/support/app-store-improvements/">Learn more about App Store improvements</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Safari Extensions in Safari 10</title>
+<link>https://developer.apple.com/news/?id=08242016a</link>
+<guid>https://developer.apple.com/news/?id=08242016a</guid>
+<description>Create Safari Extensions that give users access to your app’s best features as they browse the web. Xcode makes it simple to add Safari Extensions to your existing app by using an App Extensions template. Easily develop your extensions using powerful, native APIs and web technologies. And coming this fall with macOS Sierra, you can sell and distribute apps with Safari Extensions on the Mac App Store. Learn more about Safari Extensions.</description>
+<pubDate>Wed, 24 Aug 2016 13:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Create Safari Extensions that give users access to your app’s best features as they browse the web. Xcode makes it simple to add Safari Extensions to your existing app by using an App Extensions template. Easily develop your extensions using powerful, native APIs and web technologies. And coming this fall with macOS Sierra, you can sell and distribute apps with Safari Extensions on the Mac App Store. <span class="nowrap"><a href="https://developer.apple.com/safari/extensions/">Learn more about Safari Extensions.</a></span></p>]]></content:encoded>
+</item>
+<item>
+<title>Get Your iMessage Apps Ready</title>
+<link>https://developer.apple.com/news/?id=08232016a</link>
+<guid>https://developer.apple.com/news/?id=08232016a</guid>
+<description>Take advantage of the new Messages framework in iOS 10 to create an app extension that lets people interact with your iOS app directly within Messages. Users can easily create and share content, add stickers, make payments, and more, without leaving their conversations. And coming this fall, you can make iMessage apps available for download directly on the App Store for iMessage.  Learn more about iMessage apps.</description>
+<pubDate>Tue, 23 Aug 2016 15:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Take advantage of the new Messages framework in iOS 10 to create an app extension that lets people interact with your iOS app directly within Messages. Users can easily create and share content, add stickers, make payments, and more, without leaving their conversations. And coming this fall, you can make iMessage apps available for download directly on the App Store for iMessage.  <span class="nowrap"><a href="https://developer.apple.com/imessage/">Learn more about iMessage apps</a>.</span></p>]]></content:encoded>
+</item>
+<item>
+<title>Simplified Screenshot Submission Process</title>
+<link>https://developer.apple.com/news/?id=08082016a</link>
+<guid>https://developer.apple.com/news/?id=08082016a</guid>
+<description>Now it’s easier than ever to deliver your screenshots and app preview using iTunes Connect. Submit just one set of screenshots and one optional app preview per device family, and they will be used across device sizes and localizations.If your app’s UI or behavior changes based on device size, or if you would like to include localized screenshots, you can use the new Media Manager to add custom screenshots. Learn more by watching What's New in iTunes Connect from WWDC16.</description>
+<pubDate>Mon, 08 Aug 2016 16:50:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Now it’s easier than ever to deliver your screenshots and app preview using iTunes Connect. Submit just one set of screenshots and one optional app preview per device family, and they will be used across device sizes and localizations.</p><p>If your app’s UI or behavior changes based on device size, or if you would like to include localized screenshots, you can use the new Media Manager to add custom screenshots. Learn more by watching <span class="nowrap"><a href="https://developer.apple.com/videos/play/wwdc2016/305/?time=1700/">What's New in iTunes Connect</a></span> from WWDC16.</p>]]></content:encoded>
+</item>
+<item>
+<title>Developer Insights Series: Creating a Great Commerce Experience</title>
+<link>https://developer.apple.com/news/?id=08032016a</link>
+<guid>https://developer.apple.com/news/?id=08032016a</guid>
+<description>Houzz shares its unique approach to e‑commerce, and how the experience evolved from a side project to a multi-platform app with tens of millions of users monthly. Learn more.</description>
+<pubDate>Wed, 03 Aug 2016 13:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Houzz shares its unique approach to e‑commerce, and how the experience evolved from a side project to a multi-platform app with tens of millions of users monthly. <span class="nowrap"><a href="https://developer.apple.com/app-store/houzz/">Learn more</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Apple Pay Has Expanded to France and Hong Kong</title>
+<link>https://developer.apple.com/news/?id=07192016a</link>
+<guid>https://developer.apple.com/news/?id=07192016a</guid>
+<description>You can now support Apple Pay for your customers in France and Hong Kong, providing an easy and secure way for them to pay for physical goods and services within your app with a single touch. Learn more about Apple Pay.</description>
+<pubDate>Tue, 19 Jul 2016 17:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>You can now support Apple Pay for your customers in France and Hong Kong, providing an easy and secure way for them to pay for physical goods and services within your app with a single touch. <a href="https://developer.apple.com/apple-pay/">Learn more about Apple Pay</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>WWDC16 Video Transcripts</title>
+<link>https://developer.apple.com/news/?id=07082016a</link>
+<guid>https://developer.apple.com/news/?id=07082016a</guid>
+<description>Take advantage of transcripts to quickly discover and share information presented in WWDC16 videos. You can search by keyword, see all instances where the keyword is mentioned in the video, go straight to the time it was mentioned, and even share a link to that specific time. Watch session videos.</description>
+<pubDate>Fri, 08 Jul 2016 13:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Take advantage of transcripts to quickly discover and share information presented in WWDC16 videos. You can search by keyword, see all instances where the keyword is mentioned in the video, go straight to the time it was mentioned, and even share a link to that specific time. <a href="https://developer.apple.com/videos/wwdc2016/">Watch session videos</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Apple Pay Has Expanded to Switzerland</title>
+<link>https://developer.apple.com/news/?id=07072016a</link>
+<guid>https://developer.apple.com/news/?id=07072016a</guid>
+<description>You can now support Apple Pay for your customers in Switzerland, providing an easy and secure way for them to pay for physical goods and services within your app with a single touch.  Learn more about Apple Pay.</description>
+<pubDate>Thu, 07 Jul 2016 10:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>You can now support Apple Pay for your customers in Switzerland, providing an easy and secure way for them to pay for physical goods and services within your app with a single touch.  <span class="nowrap"><a href="https://developer.apple.com/apple-pay/">Learn more about Apple Pay</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Developer Insights Series: Using the Paid Business Model</title>
+<link>https://developer.apple.com/news/?id=06232016a</link>
+<guid>https://developer.apple.com/news/?id=06232016a</guid>
+<description>Find out why 3 Minute Games chose the paid business model for their Lifeline apps, and how the studio keeps users engaged between releases.  Learn more.</description>
+<pubDate>Thu, 23 Jun 2016 16:10:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Find out why 3 Minute Games chose the paid business model for their Lifeline apps, and how the studio keeps users engaged between releases.  <span class="nowrap"><a href="https://developer.apple.com/app-store/three-minute-games/">Learn more</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Testing, Optimizing, and Analyzing  Your Apps </title>
+<link>https://developer.apple.com/news/?id=06162016a</link>
+<guid>https://developer.apple.com/news/?id=06162016a</guid>
+<description>We’ve added new features and resources to help you test, optimize, and analyze your apps.TestFlight UpdatesTestFlight now supports apps built for the new beta of iOS, watchOS, and tvOS, which means that you can get feedback from testers on features like SiriKit, Push Notifications for tvOS, new iOS Extension APIs, and more. Read the TestFlight release notes.App Store OptimizationSearch queries account for over 65% of downloads from the App Store. Learn how you can impact where your app ranks in search results to help users more easily find your app. Read Optimizing for App Store Search.App Analytics ImpressionsApp Analytics now has data on App Store Impressions, which means you can see how many times your app’s icon has been viewed on the App Store in search results, Featured, Top Charts, and your App Store product page. With App Store Impressions, you can calculate how often users download your app after viewing it anywhere on the App Store. Learn more about App Analytics.</description>
+<pubDate>Thu, 16 Jun 2016 17:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>We’ve added new features and resources to help you test, optimize, and analyze your apps.</p><p><strong>TestFlight Updates</strong><br>TestFlight now supports apps built for the new beta of iOS, watchOS, and tvOS, which means that you can get feedback from testers on features like SiriKit, Push Notifications for tvOS, new iOS Extension APIs, and more. <a href="https://developer.apple.com/testflight/release-notes/">Read the TestFlight release notes</a>.</p><p><strong>App Store Optimization</strong><br>Search queries account for over 65% of downloads from the <span class="nowrap">App Store</span>. Learn how you can impact where your app ranks in search results to help users more easily find your app. <a href="https://developer.apple.com/app-store/search/"><span class="nowrap">Read Optimizing for App Store Search</span></a>.</p><p><strong>App Analytics Impressions</strong><br>App Analytics now has data on App Store Impressions, which means you can see how many times your app’s icon has been viewed on the App Store in search results, Featured, Top Charts, and your App Store product page. With App Store Impressions, you can calculate how often users download your app after viewing it anywhere on the App Store. <span class="nowrap"><a href="https://developer.apple.com/app-store/app-analytics/">Learn more about App Analytics</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Winners of the 2016 Apple Design Awards</title>
+<link>https://developer.apple.com/news/?id=060142016a</link>
+<guid>https://developer.apple.com/news/?id=060142016a</guid>
+<description>Read about these talented developers and their apps, which reflect the best in design, innovation, and technology on Apple platforms. See the winners.</description>
+<pubDate>Tue, 14 Jun 2016 12:30:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Read about these talented developers and their apps, which reflect the best in design, innovation, and technology on Apple platforms. <a href="https://developer.apple.com/design/awards/"><span class="nowrap">See the winners</span></a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>New App Store Review Guidelines</title>
+<link>https://developer.apple.com/news/?id=06132016c</link>
+<guid>https://developer.apple.com/news/?id=06132016c</guid>
+<description>We’ve rewritten the App Review Guidelines to be more helpful, provide more context, and incorporate the guidelines for Mac apps.  We hope these updates will help your app sail through App Review. While the guidelines themselves haven’t changed, the previous App Store and Mac App Store Review Guidelines will remain available for apps currently in the review process.   View the new App Store Review Guidelines.</description>
+<pubDate>Mon, 13 Jun 2016 12:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>We’ve rewritten the App Review Guidelines to be more helpful, provide more context, and incorporate the guidelines for Mac apps.  We hope these updates will help your app sail through App Review. While the guidelines themselves haven’t changed, the previous App Store and Mac App Store Review Guidelines will remain available for apps currently in the review process.   <span class="nowrap"><a href="https://developer.apple.com/app-store/review/guidelines/">View the new App Store Review Guidelines</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>WWDC16. Now Live Streaming</title>
+<link>https://developer.apple.com/news/?id=06132016a</link>
+<guid>https://developer.apple.com/news/?id=06132016a</guid>
+<description>See the latest advancements in macOS, iOS, watchOS, and tvOS with over 100 sessions presented by Apple engineers at this year’s conference. We’re live streaming all sessions daily and posting videos and related sample code throughout the week. Watch WWDC session videos.</description>
+<pubDate>Mon, 13 Jun 2016 12:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>See the latest advancements in macOS, iOS, watchOS, and tvOS with over 100 sessions presented by Apple engineers at this year’s conference. We’re live streaming all sessions daily and posting videos and related sample code throughout the week. <br><a href="https://developer.apple.com/wwdc/live/">Watch WWDC session videos</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Coming Soon to the  App Store </title>
+<link>https://developer.apple.com/news/?id=06082016a</link>
+<guid>https://developer.apple.com/news/?id=06082016a</guid>
+<description>We’re introducing exciting new capabilities and tools designed to help grow your app’s business and engage with new and existing customers on the App Store.Search AdsSearch Ads is an efficient and easy way for you to promote your app directly within the U.S. App Store search results, helping customers discover or reengage with your app while respecting their privacy. Starting this summer, you’ll be able to participate in the Search Ads beta and see the ads in action.  Learn more about Search Ads.Subscription EnhancementsWe’re opening auto-renewable subscriptions to all app categories including games, increasing developer revenue for eligible subscriptions after one year, providing greater pricing flexibility, and more. Learn about what’s new in subscriptions.</description>
+<pubDate>Wed, 08 Jun 2016 10:15:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>We’re introducing exciting new capabilities and tools designed to help grow your app’s business and engage with new and existing customers on the <span class="nowrap">App Store</span>.</p><p><strong>Search Ads</strong><br>Search Ads is an efficient and easy way for you to promote your app directly within the U.S. App Store search results, helping customers discover or reengage with your app while respecting their privacy. Starting this summer, you’ll be able to participate in the Search Ads beta and see the ads in action. <span class="nowrap"> <a href="https://developer.apple.com/app-store/search-ads/">Learn more about Search Ads</a>.</p><p><strong>Subscription Enhancements</strong><br>We’re opening auto-renewable subscriptions to all app categories including games, increasing developer revenue for eligible subscriptions after one year, providing greater pricing flexibility, and more. <span class="nowrap"><a href="https://developer.apple.com/app-store/subscriptions/whats-new/">Learn about what’s new in subscriptions</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Hello, San Francisco!</title>
+<link>https://developer.apple.com/news/?id=05192016a</link>
+<guid>https://developer.apple.com/news/?id=05192016a</guid>
+<description>Apple’s developer community will come together at WWDC16 in San Francisco to see the future of Apple platforms and connect with thousands of developers from all around the world. In addition to the activities planned for conference attendees, a variety of other exciting developer events will take place throughout the week in San Francisco. If you’re attending the conference or will be in the area during WWDC, learn about these other developer events.</description>
+<pubDate>Thu, 19 May 2016 10:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Apple’s developer community will come together at WWDC16 in San Francisco to see the future of Apple platforms and connect with thousands of developers from all around the world. In addition to the activities planned for conference attendees, a variety of other exciting developer events will take place throughout the week in San Francisco. If you’re attending the conference or will be in the area during WWDC, <a href="https://developer.apple.com/wwdc/attending/#around-san-francisco">learn about these other developer events</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Apple Music in iOS 9.3</title>
+<link>https://developer.apple.com/news/?id=05122016a</link>
+<guid>https://developer.apple.com/news/?id=05122016a</guid>
+<description>Provide controls for Apple Music within your app. iOS 9.3 now supports playback of any song for Apple Music members. To learn more about the new features, guidelines, and affiliate program, see Apple Music Best Practices for App Developers.</description>
+<pubDate>Thu, 12 May 2016 09:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Provide controls for Apple Music within your app. iOS 9.3 now supports playback of any song for Apple Music members. To learn more about the new features, guidelines, and affiliate program, see <a href="https://affiliate.itunes.apple.com/resources/documentation/apple-music-best-practices-for-app-developers/">Apple Music Best Practices for App Developers</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Supporting IPv6-only Networks</title>
+<link>https://developer.apple.com/news/?id=05042016a</link>
+<guid>https://developer.apple.com/news/?id=05042016a</guid>
+<description>At WWDC 2015 we announced the transition to IPv6-only network services in iOS 9. Starting June 1, 2016 all apps submitted to the App Store must support IPv6-only networking. Most apps will not require any changes because IPv6 is already supported by NSURLSession and CFNetwork APIs.If your app uses IPv4-specific APIs or hard-coded IP addresses, you will need to make some changes. Learn how to ensure compatibility by reading  Supporting IPv6 DNS64/NAT64 Networks and watch Your App and Next Generation Networks.</description>
+<pubDate>Wed, 04 May 2016 12:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>At WWDC 2015 we announced the transition to IPv6-only network services in iOS 9. Starting June 1, 2016 all apps submitted to the App Store must support IPv6-only networking. Most apps will not require any changes because IPv6 is already supported by NSURLSession and CFNetwork APIs.</p><p>If your app uses IPv4-specific APIs or hard-coded IP addresses, you will need to make some changes. Learn how to ensure compatibility by reading  <a href="https://developer.apple.com/library/prerelease/mac/documentation/NetworkingInternetWeb/Conceptual/NetworkingOverview/UnderstandingandPreparingfortheIPv6Transition/UnderstandingandPreparingfortheIPv6Transition.html#//apple_ref/doc/uid/TP40010220-CH213-SW1"><span class="nowrap">Supporting IPv6 DNS64/NAT64 Networks</a></span> <span class="nowrap">and watch</span> <a href="https://developer.apple.com/videos/wwdc/2015/?id=719"><span class="nowrap">Your App and Next Generation Networks</a></span>.</p>]]></content:encoded>
+</item>
+<item>
+<title>CareKit Now Available</title>
+<link>https://developer.apple.com/news/?id=04282016a</link>
+<guid>https://developer.apple.com/news/?id=04282016a</guid>
+<description>You can use the CareKit framework to develop apps that help people better understand and manage their health by creating dynamic care plans, tracking symptoms, connecting to care teams, and more. CareKit is open source so, in addition to creating great personal care apps, you can collaborate with other developers and the medical community to make CareKit even better.  To download a sample app and learn more, visit CareKit.org.</description>
+<pubDate>Thu, 28 Apr 2016 15:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>You can use the CareKit framework to develop apps that help people better understand and manage their health by creating dynamic care plans, tracking symptoms, connecting to care teams, and more. CareKit is open source so, in addition to creating great personal care apps, you can collaborate with other developers and the medical community to make CareKit even better.  To download a sample app and learn more, <span class="nowrap"><a href="http://www.carekit.org/">visit CareKit.org</a></span>.</p></p>]]></content:encoded>
+</item>
+<item>
+<title>Upcoming Requirement for watchOS Apps</title>
+<link>https://developer.apple.com/news/?id=04222016a</link>
+<guid>https://developer.apple.com/news/?id=04222016a</guid>
+<description>Starting June 1, 2016, all new watchOS apps submitted to the App Store must be native apps built with the watchOS 2 SDK or later. Learn more about developing for watchOS. </description>
+<pubDate>Fri, 22 Apr 2016 15:30:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Starting June 1, 2016, all new watchOS apps submitted to the <span class="nowrap">App Store</span> must be native apps built with the watchOS 2 SDK or later. <span class="nowrap"><a href="https://developer.apple.com/watchos/">Learn more about developing for watchOS</a></span>. </p>]]></content:encoded>
+</item>
+<item>
+<title>Apple Pay Has Expanded to Singapore</title>
+<link>https://developer.apple.com/news/?id=04192016a</link>
+<guid>https://developer.apple.com/news/?id=04192016a</guid>
+<description>You can now support Apple Pay for your customers in Singapore, providing an easy and secure way for them to pay using American Express. Apple Pay lets users buy physical goods and services within your app with a single touch.  Learn more about Apple Pay.</description>
+<pubDate>Tue, 19 Apr 2016 16:07:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>You can now support Apple Pay for your customers in Singapore, providing an easy and secure way for them to pay using American Express. Apple Pay lets users buy physical goods and services within your app with a single touch.  <a href="https://developer.apple.com/apple-pay/">Learn more about Apple Pay</a>.</p>]]></content:encoded>
+</item>
+<item>
+<title>Get Ready for WWDC16</title>
+<link>https://developer.apple.com/news/?id=04182016a</link>
+<guid>https://developer.apple.com/news/?id=04182016a</guid>
+<description>The Apple Worldwide Developers Conference kicks off June 13 in San Francisco. WWDC features more than 100 technical sessions, over 1,000 Apple engineers, hands-on labs, and the Apple Design Awards. Register now for an opportunity to join Apple’s renowned developer community at this year’s conference. Students and STEM organization members can also apply for a WWDC Scholarship to attend. Learn more about WWDC.</description>
+<pubDate>Mon, 18 Apr 2016 16:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>The Apple Worldwide Developers Conference kicks off June 13 in San Francisco. WWDC features more than 100 technical sessions, over 1,000 Apple engineers, hands-on labs, and the Apple Design Awards. Register now for an opportunity to join Apple’s renowned developer community at this year’s conference. Students and STEM organization members can also apply for a WWDC Scholarship to attend. <span class="nowrap"><a href="https://developer.apple.com/wwdc/">Learn more about WWDC</a></span>.</p></p>]]></content:encoded>
+</item>
+<item>
+<title>Make the Most of the App Store</title>
+<link>https://developer.apple.com/news/?id=04182016b</link>
+<guid>https://developer.apple.com/news/?id=04182016b</guid>
+<description>Take advantage of new articles and videos designed to help you grow your business on the App Store and engage users worldwide. See how developers approach finding success on Apple platforms and what they’ve learned along the way. Learn more.</description>
+<pubDate>Mon, 18 Apr 2016 16:00:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Take advantage of new articles and videos designed to help you grow your business on the App Store and engage users worldwide. See how developers approach finding success on Apple platforms and what they’ve learned along the way. <span class="nowrap"><a href="https://developer.apple.com/app-store/">Learn more</a></span>.</p></p>]]></content:encoded>
+</item>
+<item>
+<title>Introducing Safari Technology Preview</title>
+<link>https://developer.apple.com/news/?id=03302016a</link>
+<guid>https://developer.apple.com/news/?id=03302016a</guid>
+<description>Get a sneak peek at upcoming Safari web technologies in OS X and iOS, and easily experiment with these technologies in your websites and extensions.   Get started with the preview today. </description>
+<pubDate>Wed, 30 Mar 2016 10:30:00 PDT</pubDate>
+<content:encoded><![CDATA[<p>Get a sneak peek at upcoming Safari web technologies in OS X and iOS, and easily experiment with these technologies in your websites and extensions.   <span class="nowrap"><a href="https://developer.apple.com/safari/technology-preview/">Get started with the preview today</a></span>. </p>]]></content:encoded>
+</item>
+
+</channel>
+</rss>
