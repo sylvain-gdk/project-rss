@@ -19,7 +19,7 @@ This is an application to manage RSS feeds. It can load a file in XML format or 
 !["starting.png"](https://github.com/sylvain-gdk/project-rss/blob/master/docs/import-feed.png)
 
 #### Reading a post
-!["starting.png"](https://github.com/sylvain-gdk/project-rss/blob/master/docs/view.png)
+!["starting.png"](https://github.com/sylvain-gdk/project-rss/blob/master/docs/view-feed.png)
 
 #### Making modifications
 !["starting.png"](https://github.com/sylvain-gdk/project-rss/blob/master/docs/modify-feed.png)
